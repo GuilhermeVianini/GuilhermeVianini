@@ -1,7 +1,7 @@
 ----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/GuilhermeVianini/GuilhermeVianini/blob/main/IMG/github-header-image?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/GuilhermeVianini/GuilhermeVianini/blob/9abb6539927b32b51765972ddcda24f04707f33c/IMG/github-header-image.png"/>
 </div>
 
 -----
