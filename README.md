@@ -16,7 +16,7 @@
 </td>
 <td><a href="mailto:guilhermevianinip@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="www.linkedin.com/in/guilherme-vianini" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/guilherme-vianini-90174922b/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
@@ -32,14 +32,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, o meu nome é <code> Guilherme Vianini</code>, tenho 20 anos. Moro em Belo Horizonte e atualmente estou me desenvolvendo em conhecimentos da programação.  Atualmente sou <code>estudante</code> nos curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :, o meu nome é <code> Guilherme Vianini</code>, tenho 20 anos. Moro em Belo Horizonte e atualmente estou me desenvolvendo em conhecimentos da programação.  Atualmente sou <code>estudante</code> nos curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<!--<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
 <div align="justify">
