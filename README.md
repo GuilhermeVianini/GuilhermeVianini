@@ -41,11 +41,10 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
-- : &nbsp; Sou entusiasta em programação e sou <code>aluno</code> de Sistemas de Informação.
+- :man_teacher: &nbsp; Sou entusiasta em programação e sou <code>Aluno</code> de Sistemas de Informação.
 - :mortar_board: &nbsp; Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C#. Utilizo alguns frameworks como React e Node.js. 
 - :necktie: &nbsp; Atualmente anseio por estagiar e ter uma visão mais próxima do mercado de trabalho.
 </p>
