@@ -45,7 +45,7 @@
 
 <div align="justify">
 <p> 
-- :about_me: &nbsp; Sou entusiasta em programação e sou <code>aluno</code> de Sistemas de Informação.
+- : &nbsp; Sou entusiasta em programação e sou <code>aluno</code> de Sistemas de Informação.
 - :mortar_board: &nbsp; Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C#. Utilizo alguns frameworks como React e Node.js. 
 - :necktie: &nbsp; Atualmente anseio por estagiar e ter uma visão mais próxima do mercado de trabalho.
 </p>
