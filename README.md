@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :, o meu nome é <code> Guilherme Vianini</code>, tenho 20 anos. Moro em Belo Horizonte e atualmente estou me desenvolvendo em conhecimentos da programação.  Atualmente sou <code>estudante</code> nos curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :, o meu nome é <code>Guilherme Vianini</code>, tenho 20 anos. Moro em Belo Horizonte e atualmente estou me desenvolvendo em conhecimentos da programação.  Atualmente sou <code>estudante</code> nos curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
