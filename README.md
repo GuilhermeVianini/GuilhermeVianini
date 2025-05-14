@@ -14,9 +14,9 @@
 <tr>
 <td><a href="https://replit.com/@GuiVianini"><img src="https://github.com/GuilhermeVianini/GuilhermeVianini/blob/main/IMG/replit2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:guilhermevianinipereira@gmail.com" target="_blank"><img src="https://github.com/GuilhermeVianini/GuilhermeVianini/main/IMG/email-imagem.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:guilhermevianinipereira@gmail.com" target="_blank"><img src="https://github.com/GuilhermeVianini/GuilhermeVianini/blob/main/IMG/email-imagem.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/guilherme-vianini-90174922b/" target="_blank"><img src="https://github.com/GuilhermeVianini/GuilhermeVianini/main/IMG/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/guilherme-vianini-90174922b/" target="_blank"><img src="https://github.com/GuilhermeVianini/GuilhermeVianini/blob/main/IMG/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
