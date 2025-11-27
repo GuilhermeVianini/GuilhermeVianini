@@ -44,9 +44,9 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Sou entusiasta em programação e sou aluno do curso de Sistemas de Informação.
-- :mortar_board: &nbsp; Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C#. Utilizo alguns frameworks como React e Node.js. 
-- :necktie: &nbsp; Atualmente anseio por estagiar e ter uma visão mais próxima do mercado de trabalho.
+- Sou entusiasta em programação e sou aluno do curso de Sistemas de Informação.
+  Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C++. Tenho experiência de uso com alguns frameworks como React e Node.js. 
+  Anseio por melhorar minhas habilidades e ter uma visão mais próxima do mercado de trabalho.
 </p>
 </div>
 
