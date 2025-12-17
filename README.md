@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :, o meu nome é <code>Guilherme Vianini</code>, tenho 21 anos. Moro em Belo Horizonte e atualmente estou me desenvolvendo em conhecimentos da programação.  Atualmente sou <code>estudante</code> nos curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :, o meu nome é <code>Guilherme Vianini</code>, tenho 21 anos. Moro em Belo Horizonte e atualmente desenvolvendo meus conhecimentos na programação.  Atualmente sou <code>formado</code> no curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
@@ -44,8 +44,7 @@
 
 <div align="justify">
 <p> 
-- Sou entusiasta em programação e sou aluno do curso de Sistemas de Informação.
-  Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C++. Tenho experiência de uso com alguns frameworks como React e Node.js. 
+- Atualmente, estou focando em aprender e desenvolver minhas habilidades em Java, Javascript e C++. Tenho experiência de uso com alguns frameworks como React e Node.js. 
   Anseio por melhorar minhas habilidades e ter uma visão mais próxima do mercado de trabalho.
 </p>
 </div>
